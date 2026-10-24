@@ -1,65 +1,49 @@
 # Zekro
 
-Zekro is an Android debt and ledger tracker designed to help users keep track of money lent, money borrowed, repayments, balances and due dates.
+**Debt and Ledger Tracker for Android**
 
-It provides a clear way to organize debts by person and follow them from the first entry to the final payment.
+Zekro helps users track money lent or borrowed, balances, due dates and related records in one organized Android workflow.
 
-## Features
+## What it does
 
 - Track money lent and borrowed
-- Manage multiple debts for the same person
-- Record partial repayments
-- Track remaining balances
-- Set due dates
-- See upcoming and overdue debts
-- Add notes and supporting information
-- Search and organize debt records
-- Export data
-- Backup and restore
-- Home-screen widget
-- Local-first design
+- Organize multiple debts for the same person
+- Follow partial payments and remaining balances
+- Track due, upcoming and overdue items
+- Backup and export supported records
+- PDF and widget support where available
+
+## Product principles
+
+- Clear personal ledger visibility
+- Local-first daily tracking
 - No unnecessary account requirement
+- User-controlled backup and export
 
-## Useful for
+## Public documentation
 
-Zekro can be used to manage:
+| Document | Purpose |
+| --- | --- |
+| [Getting Started](docs/getting-started.md) | Public setup and usage guidance |
+| [Backup, Export and PDF](docs/backup-export-pdf.md) | Public user-facing documentation |
+| [Support](SUPPORT.md) | Support and official contact channels |
+| [Changelog](CHANGELOG.md) | Public product changes |
 
-- Personal loans
-- Money borrowed from friends or family
-- Money lent to others
-- Shared expenses
-- Partial repayments
-- Outstanding balances
-- Due-date tracking
-- Informal personal ledgers
+## Official links
 
-## Privacy approach
+- TSI Dev Studio: https://tsidevstudio.com
+- Blog: https://blog.tsidevstudio.com
 
-Zekro is designed around local control of financial records.
+## About this repository
 
-The app focuses on:
+This repository is for public product information, documentation, verification links and release-related resources.
 
-- Local-first usage
-- Minimal data collection
-- No unnecessary accounts
-- No unnecessary cloud dependence
-- User-controlled backups
-- Clear ownership of personal data
+Unless explicitly stated otherwise, the application source code is not published here.
 
-## TSI Dev Studio
+Internal architecture and implementation details are intentionally excluded from public documentation.
 
-Zekro is developed by TSI Dev Studio, an independent Android developer focused on practical, privacy-conscious and local-first mobile apps.
+## Developer
 
-Official website:
+**TSI Dev Studio**
 
 https://tsidevstudio.com
-
-Other projects include Xsilent, Nullun, MicutVault, AnonyPic, Seabil, HEZX, Annum and Zizly.
-
-## Contact
-
-General: contact@tsidevstudio.com
-
-App support: support@tsidevstudio.com
-
-Press & media: press@tsidevstudio.com
